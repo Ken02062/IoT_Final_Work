@@ -4,5 +4,7 @@ Final 作業
 流程圖
 ![流程圖](images/flow_chart.png)
 - - -
-[Youtube 影片連結](https://youtu.be/jro40tkCHU8)
+[程式碼連結](https://github.com/Ken02062/IoT_Final_Work/blob/main/12_final/12_final.ino)
+- - -
+[實測 Youtube 影片連結](https://youtu.be/jro40tkCHU8)
 - - -
